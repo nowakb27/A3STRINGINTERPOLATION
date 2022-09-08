@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3STRINGINTERPOLATION", "A3STRINGINTERPOLATION\A3STRINGINTERPOLATION.csproj", "{CE5A436A-7107-4169-9640-4AF41E8E1B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5A436A-7107-4169-9640-4AF41E8E1B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5A436A-7107-4169-9640-4AF41E8E1B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5A436A-7107-4169-9640-4AF41E8E1B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5A436A-7107-4169-9640-4AF41E8E1B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
